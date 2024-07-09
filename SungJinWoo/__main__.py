@@ -87,7 +87,7 @@ HELP_IMG = "https://telegra.ph/file/934bc1b8447ea0c9d4ece.jpg"
 START_IMG = "https://telegra.ph/file/48067587d30af6afb6562.jpg"
     
 PM_START_TEXT = """
-  ⫸ [SungJinWoo](https://telegra.ph/file/48067587d30af6afb6562.jpg) ⫷
+  ⫸ [Kaneki-ghoul](https://telegra.ph/file/48067587d30af6afb6562.jpg) ⫷
 Konnichiwa, I am {}
  
 I am an Anime themed group management bot with some fun extras ;)
@@ -261,7 +261,7 @@ def start(update: Update, context: CallbackContext):
                   InlineKeyboardButton(text="Updates ", url=f"https://telegram.dog/{UPDATES_CHANNEL}")
                       ],
                     [
-                       InlineKeyboardButton(text="Alliance 🌐", url="https://telegram.dog/Aogiri_Network")
+                       InlineKeyboardButton(text="Alliance 🌐", url="https://telegram.dog/ApeX_Chats")
                   ]
                 ]
             ),
